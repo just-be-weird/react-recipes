@@ -1,26 +1,19 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import TrackList from "./TrackList";
+import PlayerControls from "./PlayerControls";
+import { MusicPlayerProvider } from "./MusicPlayerContext";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <MusicPlayerProvider>
+      <div className="container">
+        <TrackList />
+        <PlayerControls />
+      </div>
+    </MusicPlayerProvider>
   );
 }
 
 export default App;
+//https://www.bensound.com/
+// https://upmostly.com/tutorials/how-to-use-the-usecontext-hook-in-react
