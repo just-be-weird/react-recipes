@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f4032dc-6836-4861-8096-33d463dc72e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/urfrn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Context/MusicPlayerContext.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hooks/useMusicPlayer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MusicPlayer/PlayerControls.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MusicPlayer/TrackList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MusicPlayer/assets/creativeminds.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MusicPlayer/assets/goinghigher.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MusicPlayer/assets/memories.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/Icon.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/btn.styles.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Program Files\nodejs\node_modules\prettier" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Version Alpha 0.0.01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version Alpha 0.0.01" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592761958757">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1592761958757" />
+    <state x="539" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592760454982">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="539" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1592760454982" />
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592761307315">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1592761307315" />
+    <state width="1514" height="232" key="GridCell.Tab.0.bottom" timestamp="1592762182049">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="232" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1592762182049" />
+    <state width="1514" height="232" key="GridCell.Tab.0.center" timestamp="1592762182048">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="232" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1592762182048" />
+    <state width="1514" height="232" key="GridCell.Tab.0.left" timestamp="1592762182048">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="232" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1592762182048" />
+    <state width="1514" height="232" key="GridCell.Tab.0.right" timestamp="1592762182048">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="232" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1592762182048" />
+    <state x="277" y="77" key="SettingsEditor" timestamp="1592764072638">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1592764072638" />
+    <state x="425" y="85" width="672" height="676" key="search.everywhere.popup" timestamp="1592764051895">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="85" width="672" height="676" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1592764051895" />
+  </component>
+</project>
